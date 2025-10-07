@@ -1,0 +1,23 @@
+body {
+            background-color:rgb(150, 184, 126);
+            color:aliceblue;
+            
+        }
+        #first {
+            color:rgb(249, 191, 137);
+            font-family:monospace;
+            font-size:larger;
+            text-align: center;
+            
+        }
+        #lasttwo {
+            color:rgb(243, 208, 137);
+            font-family:monospace;
+            font-size:larger;
+            text-align: center;
+        }
+        h5 {
+            color:rgb(245, 243, 148)
+
+        }
+    
